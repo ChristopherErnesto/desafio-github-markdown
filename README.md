@@ -14,9 +14,9 @@
     -[X]Repositorio Publico.
 
 3.*Colaboração*__:
-    -[]Adicione um colaborador ao seu repositorio
-    -[]Ambos devem fazer um clone do repositorio em suas maquinas locais.
-    -[]Realizem alterações , Commits , abra issues e pull requests.
+    -[X]Adicione um colaborador ao seu repositorio
+    -[X]Ambos devem fazer um clone do repositorio em suas maquinas locais.
+    -[X]Realizem alterações , Commits , abra issues e pull requests.
 
 4.*Formatação com MarkDown*__:
     -[X]Edite o arquivo "README.md" em seu repositorio
